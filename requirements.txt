@@ -1,0 +1,67 @@
+# Core Dependencies
+streamlit
+
+# Computer Vision & ML
+ultralytics
+opencv-python
+torch
+Pillow
+easyocr
+
+# Data Processing
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+
+# Database
+psycopg2-binary
+sqlalchemy
+
+# AWS & Cloud
+boto3
+botocore
+
+# Video Processing
+moviepy
+ffmpeg-python
+
+# AI & NLP
+openai
+langchain
+chromadb
+sentence-transformers
+google-generativeai
+
+# Environment & Config
+python-dotenv
+pydantic-settings
+
+# Utilities
+python-multipart
+aiofiles
+celery
+redis
+requests
+tqdm
+
+# Report Generation
+reportlab
+jinja2
+weasyprint
+
+# Monitoring & Logging
+loguru
+
+# Development
+pytest
+black
+flake8
+groq
+
+
+
+
+
+# pip install -r requirements.txt
